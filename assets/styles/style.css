@@ -268,9 +268,14 @@ footer p {
 }
 footer a {
   font-family: "font-bold", serif;
-  color: #000101;
   font-size: calc(1rem + 2vw);
+  color: black;
 }
 .img2 {
   background: url(../img/bill-gates-2.jpg) center/cover;
+}
+.btn1 {
+  border: 3px solid #deb887;
+  border-radius: 20px;
+  padding: 5px;
 }
